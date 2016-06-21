@@ -32,6 +32,7 @@
 package com.toy.anagrams.lib;
 
 /**
+ * Abishai Parise
  * Ajay Bandi
  * Implementation of the logic for the Anagram Game application.
  */
